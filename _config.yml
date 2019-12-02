@@ -1,11 +1,11 @@
 # Site settings
-author: David  Torres
-title: 
+author: David Torres
+title: Object Oriented Programming for Beginers
 header-img: img/home-bg.png
 email: torresdavr@gmail.com
-copyright_name: David  Torres
+copyright_name: David Torres
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Class and Atributes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  torresdavr
